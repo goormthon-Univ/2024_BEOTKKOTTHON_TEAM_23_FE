@@ -4,7 +4,7 @@
 //
 //  Created by 강석호 on 3/22/24.
 //
-
+//
 import SwiftUI
 
 struct Gauge: View {
